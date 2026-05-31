@@ -37,3 +37,13 @@ addIngredient("glitched_drink",{
        // oil: { set1: "glitched_oil" }
     }   
 });
+addIngredient("red_spice",{
+    name:"Red Spice"
+    type:"salt",
+    color:"#ff0000",
+    reactions: {
+        // meat: { set1:"cured_meat" },
+       // vegetable: { set1:"spiced_veggie", tempMin:60 },
+       // oil: { set1: "spicy_oil" }
+    }   
+});
