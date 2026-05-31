@@ -57,3 +57,13 @@ addIngredient("gallsugar",{
        // oil: { set1: "ant_threatened_oil" }
     }   
 });
+addIngredient("fritz",{
+    name:"Fritz"
+    type:"butter",
+    color:"#00ff00",
+    reactions: {
+        // meat: { set1:"buttery_meat" },
+       // vegetable: { set1:"fritz_veggie", tempMin:60 },
+       // oil: { set1: "lining_oil" }
+    }   
+});
