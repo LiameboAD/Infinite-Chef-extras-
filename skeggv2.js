@@ -47,3 +47,13 @@ addIngredient("red_spice",{
        // oil: { set1: "spicy_oil" }
     }   
 });
+addIngredient("gallsugar",{
+    name:"Gallsugar"
+    type:"salt",
+    color:"#00ff67",
+    reactions: {
+        // meat: { set1:"" },
+       // vegetable: { set1:"sweet_veggie", tempMin:60 },
+       // oil: { set1: "ant_threatened_oil" }
+    }   
+});
