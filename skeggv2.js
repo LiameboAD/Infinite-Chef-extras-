@@ -16,3 +16,14 @@ addIngredient("bb_powder",{ //ID should be lowercase with underscores
     innerColor:"#000000", //black
     type:"flour", ///type can be any other ingredient
 });
+// Add ingredient with reactions
+addIngredient("rgb_jelly",{
+    name:"RGB Jelly"
+    type:"jam",
+    color:"#12fe67",
+    reactions: {
+        // meat: { set1:"" },
+       // vegetable: { set1:"", tempMin:60 },
+       // oil: { set1: "rainbow_oil" }
+    }   
+});
