@@ -67,3 +67,5 @@ addIngredient("fritz",{
        // oil: { set1: "lining_oil" }
     }   
 });
+// Add a recipe with an optional ingredient
+addRecipe("cake+sprinkles?+chocolate+fritz","fretective chocolate cake");
