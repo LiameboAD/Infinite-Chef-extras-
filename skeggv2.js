@@ -27,3 +27,13 @@ addIngredient("rgb_jelly",{
        // oil: { set1: "rainbow_oil" }
     }   
 });
+addIngredient("glitched_drink",{
+    name:"Glitched Drink"
+    type:"water",
+    color:"#676767",
+    reactions: {
+        // meat: { set1:"glitchy meat" },
+       // vegetable: { set1:"glitched_veggie", tempMin:60 },
+       // oil: { set1: "glitched_oil" }
+    }   
+});
