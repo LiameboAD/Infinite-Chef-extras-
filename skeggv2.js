@@ -49,7 +49,7 @@ addIngredient("red_spice",{
 });
 addIngredient("gallsugar",{
     name:"Gallsugar"
-    type:"salt",
+    type:"sugar",
     color:"#00ff67",
     reactions: {
         // meat: { set1:"" },
