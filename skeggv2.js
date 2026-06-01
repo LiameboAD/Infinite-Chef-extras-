@@ -32,7 +32,7 @@ addIngredient("glitched_drink",{
     type:"water",
     color:"#676767",
     reactions: {
-        // meat: { set1:"glitchy meat" },
+        // meat: { set1:"glitchy_meat" },
        // vegetable: { set1:"glitched_veggie", tempMin:60 },
        // oil: { set1: "glitched_oil" }
     }   
